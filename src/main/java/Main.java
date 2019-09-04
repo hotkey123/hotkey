@@ -10,6 +10,6 @@ public class Main extends HttpServlet {
   @Override
   protected void doGet(HttpServletRequest req, HttpServletResponse resp)
       throws ServletException, IOException {
-    resp.getWriter().print("This is the first kiran project");
+    resp.getWriter().print("kiran project for understanding the devops cycle through pipeline script");
   }
 }
